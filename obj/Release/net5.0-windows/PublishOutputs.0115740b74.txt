@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Msc Intelligent Control and Instrumentation\C++Classwork\Restaurant_Management_System_Group_2.exe
+C:\Users\user\Desktop\Msc Intelligent Control and Instrumentation\C++Classwork\Restaurant_Management_System_Group_2.dll
+C:\Users\user\Desktop\Msc Intelligent Control and Instrumentation\C++Classwork\Restaurant_Management_System_Group_2.deps.json
+C:\Users\user\Desktop\Msc Intelligent Control and Instrumentation\C++Classwork\Restaurant_Management_System_Group_2.runtimeconfig.json
+C:\Users\user\Desktop\Msc Intelligent Control and Instrumentation\C++Classwork\Restaurant_Management_System_Group_2.pdb
