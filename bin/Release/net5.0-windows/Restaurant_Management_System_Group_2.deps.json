@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Restaurant_Management_System_Group_2/1.0.0": {
+        "runtime": {
+          "Restaurant_Management_System_Group_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restaurant_Management_System_Group_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
